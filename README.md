@@ -1,6 +1,8 @@
 # gitignore
 gitignore
-[http://www.cnblogs.com/haiq/archive/2012/12/26/2833746.html(http://www.cnblogs.com/haiq/archive/2012/12/26/2833746.html"来源")]
+
+[http://www.cnblogs.com/haiq/archive/2012/12/26/2833746.html](http://www.cnblogs.com/haiq/archive/2012/12/26/2833746.html"来源")
+
 .gitignore 配置文件用于配置不需要加入版本管理的文件，配置好该文件可以为我们的版本管理带来很大的便利，以下是个人对于配置 .gitignore 的一些心得。
 
 1、配置语法：
